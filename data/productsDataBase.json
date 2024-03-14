@@ -1,0 +1,45 @@
+[
+   {
+      "id": 1,
+      "name": "Peugeto 206",
+      "price": 800000,
+      "category": "auto",
+      "model": "2013",
+      "description": "auto frances, full fachero para salir de gira",
+      "image": "auto1-206.jpg"
+   },
+   {
+      "id": 2,
+      "name": "Renault Clio",
+      "price": 750500,
+      "category": "auto",
+      "model": "2013",
+      "description": "impecable 4 cubiertas nuevas, sin deudas listo para transferir",
+      "image": "auto2-clio.jpg"
+   },
+   {
+      "id": 3,
+      "name": "Ford Fiesta",
+      "price": 860500,
+      "category": "auto",
+      "model": "2016",
+      "description": "muy buen andar, impecable interior, muy buena mecanica",
+      "image": "auto3-fiesta.jpg"
+   },
+   {
+      "id": 4,
+      "name": "fiat 147",
+      "description": "un auto de testing para ver si funciona add product",
+      "model": "1994",
+      "price": 456500,
+      "image": "auto-1662851718480.jpg"
+   },
+   {
+      "id": 5,
+      "name": "Volkswagen",
+      "description": "auto con gran confort, excelente estetica y andar",
+      "image": "auto-1662853037282.jpg",
+      "model": 2016,
+      "price": 958000
+   }
+]
