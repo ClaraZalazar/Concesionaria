@@ -1,6 +1,5 @@
-## Proyecto Concesionaria 2.0
-
-Proyecto inspirado en mi primer desafío como estudiante, que consistía en utilizar métodos de arrays de JS aplicadas a un .json
+## Proyecto Concesionaria
+Utiliza métodos de arrays de JS aplicadas a un .json
 
 #### FUNCIONALIDADES AL DÍA DE HOY:
 
